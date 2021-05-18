@@ -1,0 +1,4 @@
+[2021-05-19 00:21:19,113] 
+1/1 * Epoch 1 (train): _base/lr=0.0010 | _base/momentum=0.9000 | _timers/_fps=17760.0789 | _timers/batch_time=0.1250 | _timers/data_time=0.0508 | _timers/model_time=0.0741 | loss=5.7129
+[2021-05-19 01:10:00,034] 
+1/1 * Epoch 1 (train): _base/lr=0.0010 | _base/momentum=0.9000 | _timers/_fps=20890.0060 | _timers/batch_time=0.1006 | _timers/data_time=0.0435 | _timers/model_time=0.0571 | loss=6.2730

@@ -1,0 +1,42 @@
+{
+  "best": {
+    "loss": 6.27303785004139,
+    "_base/lr": 0.001,
+    "_base/momentum": 0.9,
+    "_timers/data_time": 0.0434709647122552,
+    "_timers/model_time": 0.05705381923759035,
+    "_timers/batch_time": 0.10061391205533254,
+    "_timers/_fps": 20890.006045717004
+  },
+  "last": {
+    "loss": 6.27303785004139,
+    "_base/lr": 0.001,
+    "_base/momentum": 0.9,
+    "_timers/data_time": 0.0434709647122552,
+    "_timers/model_time": 0.05705381923759035,
+    "_timers/batch_time": 0.10061391205533254,
+    "_timers/_fps": 20890.006045717004
+  },
+  "train.1": {
+    "loss": 6.27303785004139,
+    "_base/lr": 0.001,
+    "_base/momentum": 0.9,
+    "_timers/data_time": 0.0434709647122552,
+    "_timers/model_time": 0.05705381923759035,
+    "_timers/batch_time": 0.10061391205533254,
+    "_timers/_fps": 20890.006045717004
+  },
+  "epoch_0": [
+    "simple_w2v_1\\checkpoints/train.1.pth",
+    6.27303785004139,
+    {
+      "loss": 6.27303785004139,
+      "_base/lr": 0.001,
+      "_base/momentum": 0.9,
+      "_timers/data_time": 0.0434709647122552,
+      "_timers/model_time": 0.05705381923759035,
+      "_timers/batch_time": 0.10061391205533254,
+      "_timers/_fps": 20890.006045717004
+    }
+  ]
+}
